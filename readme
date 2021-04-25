@@ -7,3 +7,5 @@ window manager: dwm
 terminal: simple terminal
 editor: neovim
 media player: mpv
+
+scripts: [https://github.com/ayyekou/scripts]
