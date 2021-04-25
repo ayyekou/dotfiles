@@ -1,1 +1,9 @@
-ayyekou's dotfiles
+ayyekou's dotfiles 
+------------------
+
+distro: arch linux
+shell: zsh
+window manager: dwm
+terminal: simple terminal
+editor: neovim
+media player: mpv
