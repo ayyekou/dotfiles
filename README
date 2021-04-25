@@ -1,6 +1,5 @@
 dotfiles 
 --------
-
 distro: arch linux
 shell: zsh
 window manager: dwm
