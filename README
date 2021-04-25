@@ -8,5 +8,6 @@ editor: neovim
 media player: mpv
 
 dwm build: [https://github.com/ayyekou/dwm]
+dmenu build: [https://github.com/ayyekou/dmenu]
 simple terminal build: [https://github.com/ayyekou/st]
 scripts: [https://github.com/ayyekou/scripts]
