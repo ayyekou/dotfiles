@@ -1,0 +1,12 @@
+#!/bin/sh
+
+setbg &
+dtiramisu &
+battery &
+xrdb $HOME/.config/x11/xresources &
+xbanish & 
+picom & 
+mpd &
+dwmblocks &
+$TERMINAL &
+exec dwm

@@ -1,0 +1,19 @@
+#!/bin/sh
+
+# ayyekou's aliasrc
+# github.com/ayyekou
+
+# aliases
+
+alias \
+	cp="cp -iv" \
+	mv="mv -iv" \
+	rm="rm -v" \
+	ls="ls --color=always" \
+	vim="nvim" \
+	nnn="nnn -D" \
+	ytda="youtube-dl -q -x --audio-format mp3" \
+	ytdv="youtube-dl -q -f mp4" \
+	gcp="git commit -m $(date +%d/%m/%Y) -a && git push" \
+	swapvim="rm ~/.local/share/nvim/swap/*" \
+	updateplay="ls ~/music > ~/.config/mpd/playlist/yung\ bruh\ moment.m3u && echo 'playlist updated'" \

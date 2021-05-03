@@ -1,0 +1,59 @@
+! .Xresources
+! github.com/ayyekou
+
+#define black           #000000
+#define red             #cc342b
+#define green           #198844
+#define yellow          #fba922
+#define blue            #458588
+#define magenta         #a36ac7
+#define cyan            #3971ed
+#define white           #ffffff
+#define gray            #111111
+
+! special
+*.foreground:           white
+*.background:           black
+*.cursorColor:          white
+*.font:                 monospace:size=10
+
+! colors
+*.color0:               black
+*.color1:               red
+*.color2:               green
+*.color3:               yellow
+*.color4:               blue
+*.color5:               magenta
+*.color6:               cyan
+*.color7:               white
+*.color8:               black
+*.color9:               red
+*.color10:              green
+*.color11:              yellow
+*.color12:              blue
+*.color13:              magenta
+*.color14:              cyan
+*.color15:              white
+*.gray:                 gray
+
+! dwm
+dwm.font:               monospace:size=10
+dwm.normbgcolor:        gray
+dwm.normbordercolor:    gray
+dwm.normfgcolor:        white
+dwm.selbgcolor:         black
+dwm.selbordercolor:     green
+dwm.selfgcolor:         green
+dwm.borderpx:           2
+dwm.snap:               16
+dwm.showbar:            1
+dwm.topbar:             1
+dwm.nmaster:            1
+dwm.resizehints:        1
+dwm.mfact:              0.55
+
+dwm.dmenubord:          green
+dwm.dmenunormbg:        gray
+dwm.dmenunormfg:        white
+dwm.dmenuselbg:         black
+dwm.dmenuselfg:         green
