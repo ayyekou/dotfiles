@@ -4,6 +4,7 @@ setbg &
 dtiramisu &
 battery &
 xrdb $HOME/.config/x11/xresources &
+setxkbmap gb &
 xbanish & 
 picom & 
 mpd &
